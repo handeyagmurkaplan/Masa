@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+.idea/
+*.user
+Masa.Api/storage/
+Masa.Api/logs/
+storage/
+logs/
+appsettings.*.local.json

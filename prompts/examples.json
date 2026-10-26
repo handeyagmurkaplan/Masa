@@ -1,0 +1,4 @@
+[
+  { "sendWithRequest": true, "note": "GEÇİCİ örnek — İrem'in dosyası gelince değişecek", "input": "Yığın (stack) LIFO çalışır.", "output": { "summary": "Yığın son giren ilk çıkar mantığıyla çalışır." } },
+  { "sendWithRequest": false, "note": "İsteğe eklenmez", "input": "...", "output": {} }
+]

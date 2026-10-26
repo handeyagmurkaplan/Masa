@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Masa.Api.Tests/Masa.Api.Tests.csproj" />
+  <Project Path="Masa.Api/Masa.Api.csproj" />
+</Solution>
